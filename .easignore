@@ -1,0 +1,7 @@
+*
+!app
+!assets
+!package.json
+!app.json
+!eas.json
+!node_modules
